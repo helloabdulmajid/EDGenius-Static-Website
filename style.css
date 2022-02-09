@@ -1,0 +1,28 @@
+body {
+  font-family: Montserrat, sans-serif;
+}
+.navbar-brand {
+  background-image: url("logo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 121px;
+  height: 50px;
+}
+
+.navbar-nav .nav-item:hover {
+  background-color: rgba(180, 190, 203, 0.4);
+}
+
+.nav-items span{
+    color: white;
+}
+
+.main_page img{
+    width: 100%;
+  height: auto;
+}
+
+.my_navbar{
+    background-color:#d5282c;
+}
